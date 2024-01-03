@@ -28,5 +28,3 @@ void listNumber (int number1, int number2, int start =0)
     }
   
 }
-
-
